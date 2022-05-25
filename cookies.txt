@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.nitropay.com	TRUE	/	FALSE	1999999999	__cf_bm	e6wSweZ3wA9y4nlJ0mFVbWv5NnvKxEN5DbjlyO6b0.c-1653428066-0-AQuewUpbXPRcp0Z8bULxuvudgUnvN/Zy87URQmrhEfa+gFhIfcJEepraev0YUyb+v8QlO6raPg1bVaLl1N479t4=
+s.nitropay.com	TRUE	/	FALSE	1999999999	SameSite	None
+dnd5e.wikidot.com	TRUE	/	FALSE	1999999999	wikidot_token7	95c29f16e4a553dff41ff753cff50559
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	628d506a-efdd8-2d51a-9f3f4
+

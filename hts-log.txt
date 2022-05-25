@@ -1,0 +1,180 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 24 May 2022 17:34:19 at http://dnd5e.wikidot.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://dnd5e.wikidot.com/ -O1 "C:\My Web Sites\wikidot" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:38:57	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/onesignal/manifest.json (from dnd5e.wikidot.com/)
+17:40:27	Error: 	"Not Found" (404) at link https://img05.rl0.ru/8b3bfd2e9dc90a2a89cfe2f53b16dba9/c256x256/plainicon.com/download-icons/48718/plainicon.com-48718-b67e-256px.png (from dnd5e.wikidot.com/)
+17:49:58	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/tex2jax-js (from d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--javascript/WIKIDOT.combined.js)
+17:49:58	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/mathmenu-js (from d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--javascript/WIKIDOT.combined.js)
+17:49:58	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/amsmath-js (from d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--javascript/WIKIDOT.combined.js)
+17:49:58	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/amssymbols-js (from d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--javascript/WIKIDOT.combined.js)
+17:49:58	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/noundefined-js (from d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--javascript/WIKIDOT.combined.js)
+17:49:58	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/boldsymbol-js (from d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--javascript/WIKIDOT.combined.js)
+17:49:58	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/mathchoice-js (from d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--javascript/WIKIDOT.combined.js)
+17:49:58	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/popover-requires-tooltip-js (from d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--bootstrap/3.2.0/bootstrap.min.js)
+17:49:58	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/timeless-places-sandbox.wikidot.com/80.jpg
+17:50:17	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/deleted:_public (from dnd5e.wikidot.com/help:_home)
+17:50:17	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/demo:create-page (from dnd5e.wikidot.com/help:first-time-user)
+17:50:17	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/gaplouelpew.wikidot.com/80.jpg
+17:50:17	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/first (from dnd5e.wikidot.com/help:editing-pages)
+17:50:59	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/help:_template (from dnd5e.wikidot.com/help:templates)
+17:51:00	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/common--images/apple-touch-icon-57x57 (from dnd5e.wikidot.com/_admin)
+17:51:00	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/foxensbrigadehq.wikidot.com/80.jpg
+17:51:00	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/none (from dnd5e.wikidot.com/css:_home)
+17:52:41	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/timeless-places.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/liminal-archives-cn.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/union-icio-wiki.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/id-backrooms-wiki.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/es-backrooms-wiki.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/the-database.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/pt-br-backrooms-wiki.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/manganic.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/vinyasainstitute.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/backrooms-vn.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/sandboxthebackrooms-pt-br.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/tortoise-god.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/jamimyst.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/tiosw1.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/floatingcloud.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/elgranbasurero.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/fcia.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/backrooms-uli.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/backroom-wiki-cn.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/lost-souls.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/andromedazuniverse.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/wxr-jlz.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/navyeod-24.wikidot.com/80.jpg
+17:53:21	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/dream (from dnd5e.wikidot.com/kalashtar)
+17:53:21	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/sleep (from dnd5e.wikidot.com/kalashtar)
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/vertexsandbox.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/lifefoundation.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/anomaly-universe.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/szuniverse.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/031productions.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/backrooms-pl-piaskownica.wikidot.com/80.jpg
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/water-wiki-gu.wikidot.com/80.jpg
+17:53:21	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/spell:dominante-beast (from dnd5e.wikidot.com/background:gruul-anarch)
+17:53:21	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/background:cloistered (from dnd5e.wikidot.com/background:sword-coast-heroic-chronicle)
+17:53:21	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/background:spy (from dnd5e.wikidot.com/background:sword-coast-heroic-chronicle)
+17:53:21	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/the-piyan-cn.wikidot.com/80.jpg
+17:53:22	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/npsojoh.wikidot.com/80.jpg
+17:53:22	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/spells:cure-wounds (from dnd5e.wikidot.com/artificer)
+17:53:22	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/lifefoundation-scp.wikidot.com/80.jpg
+17:53:26	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/aopvp2.wikidot.com/80.jpg
+17:53:26	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/am-backrooms-wiki.wikidot.com/80.jpg
+17:53:26	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/cetale.wikidot.com/80.jpg
+17:53:26	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/agplcd.wikidot.com/80.jpg
+17:53:26	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/core-wiki.wikidot.com/80.jpg
+17:53:26	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/whammo.wikidot.com/80.jpg
+17:53:26	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/goc-wiki-cn.wikidot.com/80.jpg
+17:54:10	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/tartar0s.wikidot.com/80.jpg
+17:54:10	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/spells:plane-shift (from dnd5e.wikidot.com/epic-boons)
+17:54:10	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/piety (from dnd5e.wikidot.com/supernatural-gifts)
+17:54:11	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/spell:greater-invisibilty (from dnd5e.wikidot.com/artificer:armorer-ua)
+17:54:11	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/spelldetect-magic (from dnd5e.wikidot.com/fighter:monster-hunter-ua)
+17:54:11	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/backrooms-2020.wikidot.com/80.jpg
+17:54:11	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/spell:protection-from-good-and-evil (from dnd5e.wikidot.com/sorcerer:clockwork-soul-ua)
+17:54:11	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/thanatosplan.wikidot.com/80.jpg
+17:54:11	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/spell:buuning-hands (from dnd5e.wikidot.com/warlock:celestial-ua)
+17:54:11	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/spell:haywire (from dnd5e.wikidot.com/warlock:ghost-in-the-machine-ua)
+17:54:48	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/backrooms-sandbox-fr.wikidot.com/80.jpg
+17:54:53	Error: 	"Forbidden" (403) at link d3g0gp89917ko0.cloudfront.net/common--images/glyphicons-halflings.png (from d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--theme/bootstrap.css)
+17:54:53	Error: 	"Forbidden" (403) at link d3g0gp89917ko0.cloudfront.net/common--images/glyphicons-halflings-white.png (from d3g0gp89917ko0.cloudfront.net/v--291054f06006/common--theme/bootstrap.css)
+17:54:53	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/lineage:aasimar-core-vgm/edit/true (from dnd5e.wikidot.com/lineage:aasimar)
+17:55:00	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/wondrous-items:shield (from dnd5e.wikidot.com/wondrous-items:all)
+17:55:01	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/wondrous-items:dust-of-dissapearance (from dnd5e.wikidot.com/wizard:artificer-ua:magic-item-tables)
+17:55:01	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/wondrous-items:goggle-of-night (from dnd5e.wikidot.com/wizard:artificer-ua:magic-item-tables)
+17:55:01	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/wondrous-items:potion-of-greater-healing (from dnd5e.wikidot.com/wizard:artificer-ua:magic-item-tables)
+17:56:35	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/scp-wiki-fish.wikidot.com/80.jpg
+17:56:35	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/down-box.wikidot.com/80.jpg
+17:56:35	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/netboard.wikidot.com/80.jpg
+17:56:35	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/cryer-walker.wikidot.com/80.jpg
+17:56:35	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/miarchi.wikidot.com/80.jpg
+17:56:35	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/laomccea.wikidot.com/80.jpg
+17:56:35	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/kwl.wikidot.com/80.jpg
+17:56:35	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/wondrous-items:fraz-urbluus-staff (from dnd5e.wikidot.com/wondrous-items:demonomicon-of-iggwilv)
+17:56:35	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/spell:conjure-minor-elemental (from dnd5e.wikidot.com/wondrous-items:the-infernal-machine-of-lum-the-mad)
+17:56:35	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/spell:conjure-woodland-being (from dnd5e.wikidot.com/wondrous-items:the-infernal-machine-of-lum-the-mad)
+17:56:35	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/ninithaimassage.wikidot.com/80.jpg
+17:57:25	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/lineage:genasi (from dnd5e.wikidot.com/home:test)
+17:57:25	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/lineage:gith (from dnd5e.wikidot.com/home:test)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/dark-sun:defiling (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/dark-sun:history (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/dark-sun:campaign (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/aarakocra-athas (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/dragonborn-athas (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/dwarf-athas (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/elf-athas (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/genasi-athas (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/halfling-athas (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/half-elf-athas (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/goliath-athas (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/human-athas (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/minotaur-athas (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/half-dwarf (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/thri-kreen (from dnd5e.wikidot.com/dark-sun)
+17:57:29	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/tiefling-athas (from dnd5e.wikidot.com/dark-sun)
+17:57:32	Warning: 	File not parsed, looks like binary: thumbnails.wdfiles.com/thumbnail/site/scp-wiki-ys.wikidot.com/80.jpg
+17:57:32	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/sorcerer:favored-soul (from dnd5e.wikidot.com/innistrad:world)
+17:57:32	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/elves-kaladesh (from dnd5e.wikidot.com/kaladesh:world)
+17:57:32	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/vedalken-kaladesh (from dnd5e.wikidot.com/kaladesh:world)
+17:57:32	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/dwarf-kaladesh (from dnd5e.wikidot.com/kaladesh:world)
+17:57:32	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/aetherborn-kaladesh (from dnd5e.wikidot.com/kaladesh:world)
+17:57:32	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/human-kaladesh (from dnd5e.wikidot.com/kaladesh:world)
+17:57:32	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/elf-kaladesh (from dnd5e.wikidot.com/kaladesh:world)
+17:58:15	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/druid:blighted (from dnd5e.wikidot.com/forum/t-14474696/tal-dorei-campaign-setting-reborn)
+17:58:15	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/lineage:human-standard (from dnd5e.wikidot.com/forum/t-14470304/mordenkainen-s-monsters-of-the-multiverse)
+17:58:15	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/wondrous-item:amethyst-lodestone (from dnd5e.wikidot.com/forum/t-14241400/fizban-s-treasury-of-dragons)
+17:58:15	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/wondrous-item:crystal-blade (from dnd5e.wikidot.com/forum/t-14241400/fizban-s-treasury-of-dragons)
+17:58:15	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/wondrous-item:dragonhide-belt (from dnd5e.wikidot.com/forum/t-14241400/fizban-s-treasury-of-dragons)
+17:58:15	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/wondrous-item:dragonlance (from dnd5e.wikidot.com/forum/t-14241400/fizban-s-treasury-of-dragons)
+17:58:15	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/wondrous-item:dragon-wing-bow (from dnd5e.wikidot.com/forum/t-14241400/fizban-s-treasury-of-dragons)
+17:58:15	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/wondrous-item:emerald-pen (from dnd5e.wikidot.com/forum/t-14241400/fizban-s-treasury-of-dragons)
+17:58:15	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/wondrous-item:flail-of-tiamat (from dnd5e.wikidot.com/forum/t-14241400/fizban-s-treasury-of-dragons)
+17:58:38	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/lineage:genasi-features-core/edit/true (from dnd5e.wikidot.com/deleted:lineage:genasi)
+17:58:38	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/lineage:gith-features-core/edit/true (from dnd5e.wikidot.com/deleted:lineage:gith)
+17:58:38	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/lineage:gith-githyanki/edit/true (from dnd5e.wikidot.com/deleted:lineage:gith)
+17:58:38	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/lineage:gith-githzerai/edit/true (from dnd5e.wikidot.com/deleted:lineage:gith)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/bard:warlock:wizard:mage-of-lorehold-ua (from dnd5e.wikidot.com/forum/t-14116329/strixhaven-ua)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/feat:abberant-dragonmark-ua (from dnd5e.wikidot.com/forum/t-14120019/epic-boons-and-abberent-dragonmark-feats)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/feat:abberant-dragonmark (from dnd5e.wikidot.com/forum/t-14120019/epic-boons-and-abberent-dragonmark-feats)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/origin (from dnd5e.wikidot.com/forum/t-14108699/origins-page)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/origin:human (from dnd5e.wikidot.com/forum/t-14108699/origins-page)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/ranger:beast-master-new (from dnd5e.wikidot.com/forum/t-14033470/ranger-revised-touch-ups)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/revised-ranger-ua:beast-master (from dnd5e.wikidot.com/forum/t-14033470/ranger-revised-touch-ups)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/revised-ranger-ua:hunter (from dnd5e.wikidot.com/forum/t-14033470/ranger-revised-touch-ups)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/revised-ranger-ua:deep-stalker (from dnd5e.wikidot.com/forum/t-14033470/ranger-revised-touch-ups)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/feat:gift-of-the-chromatic-dragon-ua (from dnd5e.wikidot.com/forum/t-14063337/new-ua-feats)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/feat:gift-of-the-metallic-dragon-ua (from dnd5e.wikidot.com/forum/t-14063337/new-ua-feats)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/feat:gift-of-the-gem-dragon-ua (from dnd5e.wikidot.com/forum/t-14063337/new-ua-feats)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/cleric:beauty (from dnd5e.wikidot.com/forum/t-14039632/homebrew-subclasses)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/revenant (from dnd5e.wikidot.com/forum/t-14017726/update-on-backgrounds-favored-soul)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/ranger-no-spells-ua (from dnd5e.wikidot.com/forum/t-14017726/update-on-backgrounds-favored-soul)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/magic-items (from dnd5e.wikidot.com/forum/t-14011861/magic-items-page)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/wondrous-item:potion-of-climbing (from dnd5e.wikidot.com/forum/t-14011861/magic-items-page)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/hobgoblin-feywild (from dnd5e.wikidot.com/forum/t-14026826/new-ua-fey-races-pages)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/owlfolk (from dnd5e.wikidot.com/forum/t-14026826/new-ua-fey-races-pages)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/ranger-old (from dnd5e.wikidot.com/forum/t-13701470/phb-ranger)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/invulnerability (from dnd5e.wikidot.com/forum/t-13871225/ravenous-void-error)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/aven-amonkhet (from dnd5e.wikidot.com/plane-shift)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/human-amonkhet (from dnd5e.wikidot.com/plane-shift)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/khenra-amonkhet (from dnd5e.wikidot.com/plane-shift)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/minotaur-amonkhet (from dnd5e.wikidot.com/plane-shift)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/naga-amonkhet (from dnd5e.wikidot.com/plane-shift)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/human-gavony-innistrad (from dnd5e.wikidot.com/plane-shift)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/human-kessig-innistrad (from dnd5e.wikidot.com/plane-shift)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/human-nephalia-innistrad (from dnd5e.wikidot.com/plane-shift)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/human-stensia-innistrad (from dnd5e.wikidot.com/plane-shift)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/elf-zendikar (from dnd5e.wikidot.com/plane-shift)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/goblin-zendikar (from dnd5e.wikidot.com/plane-shift)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/human-zendikar (from dnd5e.wikidot.com/plane-shift)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/kor-zendikar (from dnd5e.wikidot.com/plane-shift)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/merfolk-zendikar (from dnd5e.wikidot.com/plane-shift)
+17:58:43	Error: 	"Not Found" (404) at link dnd5e.wikidot.com/vampire-zendikar (from dnd5e.wikidot.com/plane-shift)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 minutes 24 seconds : 3563 links scanned, 3449 files written (83716410 bytes overall) [28088365 bytes received at 19186 bytes/sec], 84617745 bytes transferred using HTTP compression in 3037 files, ratio 30%, 1.0 requests per connection
+(113 errors, 56 warnings, 0 messages)
